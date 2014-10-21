@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Omniauth::DoximityOauth2::VERSION
   spec.authors       = ["Enddy Dumbrique"]
   spec.email         = ["enddynayn@hotmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Omniauth Strategy for Doximity.}
+  spec.description   = %q{Omniauth Strategy for Doximity. Find out Doximity at doximity.com}
+  spec.homepage      = "https://github.com/pushhealth/omniauth-doximity_oauth2"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
